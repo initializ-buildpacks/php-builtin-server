@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/paketo-buildpacks/packit/v2"
-	phpbuiltinserver "github.com/paketo-buildpacks/php-builtin-server"
+	phpbuiltinserver "github.com/initializ-buildpacks/php-builtin-server"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"

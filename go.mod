@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/php-builtin-server
+module github.com/initializ-buildpacks/php-builtin-server
 
 go 1.21
 

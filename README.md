@@ -2,8 +2,8 @@
 The PHP Built-in Web Server Buildpack sets up and runs PHP's built-in web
 server to support PHP applications
 
-The buildpack is published for consumption at `gcr.io/paketo-buildpacks/php-builtin-server` and
-`paketo-buildpacks/php-builtin-server`.
+The buildpack is published for consumption at `gcr.io/initializ-buildpacks/php-builtin-server` and
+`initializ-buildpacks/php-builtin-server`.
 
 ## Behavior
 This buildpack is the default web-server in the PHP buildpack, and it will pass
